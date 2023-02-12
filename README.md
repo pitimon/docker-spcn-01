@@ -8,3 +8,6 @@
 
 ## Backup nginx config (Option)
 - `docker cp docker-nginx:/etc/nginx/conf.d/default.conf default.conf`
+
+### youtube 
+- [vdo clip](https://youtu.be/gdkC9seN0mA)
