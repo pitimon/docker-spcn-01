@@ -1,5 +1,8 @@
-# docker-spcn-01
-## deploy web by nginx 
+# docker-spcn-01 install Docker node
+- create Container Template
+- [docker install](https://docs.docker.com/engine/install/ubuntu/)
+- [portainer](https://docs.portainer.io/start/install-ce/server/docker/linux)
+## deploy nginx on Docker 
 - `docker pull nginx`
 - `docker run --name docker-nginx -p 80:80 nginx`
 
